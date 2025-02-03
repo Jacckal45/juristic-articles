@@ -4,7 +4,7 @@ date: "2024-05-29"
 author: "Furkan Bircan"
 category: "aile-hukuku"
 tags: ["boşanma", "aile-hukuku", "nafaka", "velayet"]
-image: "/articles/images/bosanma.jpg"
+image: "bosanma.jpg"
 excerpt: "Orta Yaşlı insanlar için boşanma ve aile hukuku, yaşamlarında önemli bir dönemeç olabilir. Boşanma süreci, hem duygusal hem de hukuksal olarak zorlayıcı olabilir."
 ---
 
