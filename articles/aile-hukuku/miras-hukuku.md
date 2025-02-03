@@ -4,7 +4,7 @@ date: "2024-05-28"
 author: "Furkan Bircan"
 category: "aile-hukuku"
 tags: ["miras-hukuku", "vasiyetname", "miras-paylaşımı", "veraset"]
-image: "/articles/images/bosanma.jpg"
+image: "bosanma.jpg"
 excerpt: "Orta yaşlı insanlar için miras hukuku, önemli bir konudur çünkü bu dönemde genellikle aile büyüklerinden miras kalma ihtimali artar ve gelecek nesillere aktarılacak mirasın yönetimi önem kazanır."
 ---
 

@@ -4,7 +4,7 @@ date: "2024-05-28"
 author: "Furkan Bircan"
 category: "internet-hukuku"
 tags: ["sosyal-medya", "hakaret", "internet-hukuku", "siber-suçlar"]
-image: "/articles/images/bosanma.jpg"
+image: "bosanma.jpg"
 excerpt: "Sosyal medya, iletişim ve bilgi paylaşımı için yaygın bir platform olmasının yanı sıra, bazen hakaret ve saldırganlık gibi olumsuz davranışların da yayılmasına neden olabilir."
 ---
 

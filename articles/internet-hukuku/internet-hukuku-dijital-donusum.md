@@ -5,7 +5,7 @@ author: "Furkan Bircan"
 category: "internet-hukuku"
 tags:
   ["internet-hukuku", "dijital-dönüşüm", "siber-güvenlik", "kişisel-veriler"]
-image: "/articles/images/bosanma.jpg"
+image: "bosanma.jpg"
 excerpt: "Türkiye, son yıllarda hızla dijitalleşen bir toplum haline gelmiştir. İnternetin yaygınlaşmasıyla birlikte, dijital platformlarda yaşanan sorunlar ve bu platformlarda geçerli olan hukuki düzenlemeler önem kazanmıştır."
 ---
 

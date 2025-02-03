@@ -4,7 +4,7 @@ date: "2024-05-28"
 author: "Furkan Bircan"
 category: "gayrimenkul-hukuku"
 tags: ["gayrimenkul", "yatırım", "tapu", "emlak"]
-image: "/articles/images/bosanma.jpg"
+image: "bosanma.jpg"
 excerpt: "İstanbul, Türkiye'nin ekonomik ve kültürel başkenti olarak hem yerel hem de uluslararası yatırımcılar için cazip bir gayrimenkul pazarı sunmaktadır."
 ---
 

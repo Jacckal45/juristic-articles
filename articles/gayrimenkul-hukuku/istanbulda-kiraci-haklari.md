@@ -4,7 +4,7 @@ date: "2024-05-28"
 author: "Furkan Bircan"
 category: "gayrimenkul-hukuku"
 tags: ["kiracı-hakları", "kira-hukuku", "gayrimenkul", "depozito"]
-image: "/articles/images/bosanma.jpg"
+image: "bosanma.jpg"
 excerpt: "İstanbul, Türkiye'nin en büyük ve en hareketli şehirlerinden biri olmasıyla birlikte, yoğun nüfusuyla birlikte kiracılar için çeşitli hak ve sorumlulukları da beraberinde getiriyor."
 ---
 

@@ -4,7 +4,7 @@ date: "2024-05-28"
 author: "Furkan Bircan"
 category: "is-hukuku"
 tags: ["iş-hukuku", "çalışan-hakları", "işveren-hakları", "iş-güvenliği"]
-image: "/articles/images/bosanma.jpg"
+image: "bosanma.jpg"
 excerpt: "İstanbul, Türkiye'nin iş ve ticaret merkezlerinden biri olarak hem yerli hem de uluslararası şirketler için önemli bir iş piyasası sunmaktadır."
 ---
 
