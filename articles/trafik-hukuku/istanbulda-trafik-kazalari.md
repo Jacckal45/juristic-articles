@@ -4,7 +4,7 @@ date: "2024-05-28"
 author: "Furkan Bircan"
 category: "trafik-hukuku"
 tags: ["trafik-kazası", "tazminat", "sigorta", "trafik-hukuku"]
-image: "/articles/images/bosanma.jpg"
+image: "bosanma.jpg"
 excerpt: "İstanbul, Türkiye'nin en yoğun trafiğine sahip şehirlerinden biri olarak bilinir. Bu yoğun trafiğin bir sonucu olarak maalesef trafik kazaları da sıkça yaşanmaktadır."
 ---
 
