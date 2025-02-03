@@ -2,7 +2,7 @@
 title: "Boşanma Süreci: Bilmeniz Gerekenler"
 date: "2024-02-14"
 author: "Av. Furkan Bircan"
-image: "/articles/images/bosanma.jpg"
+image: "articles/images/bosanma.jpg"
 excerpt: "Boşanma sürecinde bilmeniz gereken temel hukuki haklar ve süreç hakkında detaylı bilgiler."
 tags: ["boşanma", "aile hukuku", "nafaka", "velayet"]
 ---
