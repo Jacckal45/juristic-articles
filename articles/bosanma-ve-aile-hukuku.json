@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "type": "mainTitle",
+      "text": "Boşanma ve Aile Hukuku: Haklarınızı ve Sorumluluklarınızı Bilin"
+    },
+    {
+      "type": "introduction",
+      "text": "Orta Yaşlı insanlar için boşanma ve aile hukuku, yaşamlarında önemli bir dönemeç olabilir. Boşanma süreci, hem duygusal hem de hukuksal olarak zorlayıcı olabilir."
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Boşanma Süreci ve Hukuki Prosedürler"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye'de boşanma, evlilik birliğinin sürdürülemez hale gelmesi durumunda gerçekleşir. Boşanma süreci, çekişmeli veya anlaşmalı olabilir."
+    },
+    {
+      "type": "highlight",
+      "text": "Boşanma sürecindeki hukuki prosedürler, mahkeme kararıyla belirlenir ve tarafların haklarına ve yükümlülüklerine dikkat edilir."
+    },
+    {
+      "type": "quote",
+      "text": "Ayrıca, boşanma sonrası ekonomik desteğe ihtiyacı olan tarafın nafaka talep etme hakkı da bulunmaktadır.",
+      "author": "Furkan Bircan"
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Mal Paylaşımı ve Ekonomik Haklar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Boşanma sürecinde en sık karşılaşılan konulardan biri mal paylaşımıdır. Türkiye'de mal rejimi, genellikle mal ayrılığı esasına dayanır ancak bazı durumlarda edinilmiş mallara katılma rejimi uygulanabilir."
+    },
+    {
+      "type": "bulletPoints",
+      "title": "Önemli Hususlar",
+      "items": [
+        "Boşanma davası açılmadan önce arabuluculuk süreci değerlendirilmelidir",
+        "Mal paylaşımı konusunda detaylı envanter çıkarılmalıdır",
+        "Çocukların velayeti konusunda uzman görüşü alınmalıdır",
+        "Nafaka hesaplamaları için gelir durumu belgelenmelidir"
+      ]
+    },
+    {
+      "type": "important",
+      "text": "Boşanma sürecinde profesyonel hukuki destek almak, haklarınızın korunması açısından büyük önem taşır."
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Çocukların Velayeti ve Hakları"
+    },
+    {
+      "type": "paragraph",
+      "text": "Boşanma durumunda en önemli konulardan biri çocukların velayeti ve çocuklarla ilgili diğer konulardır. Türkiye'de çocuklar için en uygun çözümü belirlemek amacıyla mahkemeler tarafından velayet ve diğer çocukla ilgili konular karara bağlanır."
+    },
+    {
+      "type": "infoBox",
+      "title": "Velayet Değerlendirme Kriterleri",
+      "content": [
+        "Çocuğun yaşı ve gelişim düzeyi",
+        "Ebeveynlerin ekonomik durumu",
+        "Çocuğun eğitim durumu",
+        "Sosyal çevre faktörleri"
+      ]
+    },
+    {
+      "type": "conclusion",
+      "text": "Boşanma ve aile hukuku, orta yaşlı kesimin yaşamlarında önemli bir rol oynar. Boşanma sürecinde haklarını ve sorumluluklarını bilmek, tarafların daha sağlıklı ve bilinçli kararlar almasına yardımcı olabilir."
+    }
+  ]
+}
