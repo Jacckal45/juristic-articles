@@ -1,0 +1,82 @@
+{
+  "content": [
+    {
+      "type": "mainTitle",
+      "text": "Türkiye'de İnternet Hukuku: Dijital Dünyada Haklarınız ve Sorumluluklarınız"
+    },
+    {
+      "type": "introduction",
+      "text": "İnternetin yaygınlaşmasıyla birlikte, hukuki düzenlemeler de dijital dünyaya uyum sağlamaya başlamıştır. Türkiye’de internet hukuku, kişisel verilerin korunması, telif hakları, siber suçlar ve dijital platformlardaki yasal sorumlulukları kapsayan geniş bir alandır."
+    },
+    {
+      "type": "sectionTitle",
+      "text": "İnternet Hukuku Nedir?"
+    },
+    {
+      "type": "paragraph",
+      "text": "İnternet hukuku, çevrim içi dünyada bireylerin ve kurumların haklarını ve yükümlülüklerini düzenleyen hukuk dalıdır. Türkiye’de 5651 sayılı 'İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun' internet hukukunun temel yasal çerçevesini oluşturmaktadır."
+    },
+    {
+      "type": "highlight",
+      "text": "Türkiye'de internet hukuku, dijital içeriklerin düzenlenmesi, kullanıcıların haklarının korunması ve siber suçlarla mücadeleyi amaçlamaktadır."
+    },
+    {
+      "type": "quote",
+      "text": "İnternet ortamında işlenen suçlar, fiziksel dünyadaki suçlarla aynı ciddiyetle değerlendirilir ve yasal yaptırımlara tabidir.",
+      "author": "Avukat Furkan Muhammed Bircan"
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Kişisel Verilerin Korunması Kanunu (KVKK) ve İnternet"
+    },
+    {
+      "type": "paragraph",
+      "text": "6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK), bireylerin kişisel bilgilerinin korunmasını amaçlar. Dijital ortamda işlenen verilerin güvenliği ve bireylerin bu veriler üzerindeki hakları KVKK çerçevesinde korunmaktadır."
+    },
+    {
+      "type": "bulletPoints",
+      "title": "KVKK Kapsamında Bireylerin Hakları",
+      "items": [
+        "Kişisel verilerin işlenip işlenmediğini öğrenme hakkı.",
+        "Verilerin hangi amaçla işlendiğini ve kimlere aktarıldığını öğrenme hakkı.",
+        "Yanlış veya eksik verilerin düzeltilmesini talep etme hakkı.",
+        "Kişisel verilerin hukuka aykırı işlenmesi halinde silinmesini talep etme hakkı."
+      ]
+    },
+    {
+      "type": "important",
+      "text": "Şirketler ve internet siteleri, KVKK kapsamında kullanıcı verilerini korumakla yükümlüdür. Aksi halde ciddi idari para cezaları ile karşı karşıya kalabilirler."
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Siber Suçlar ve Hukuki Yaptırımlar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye'de siber suçlar, Türk Ceza Kanunu ve 5651 sayılı Kanun kapsamında düzenlenmiştir. İnternet ortamında işlenen suçlar, dijital delillerle tespit edilerek hukuki süreçler başlatılabilir."
+    },
+    {
+      "type": "infoBox",
+      "title": "Siber Suçlar Kapsamına Giren Eylemler",
+      "content": [
+        "Bilişim sistemine yetkisiz giriş yapma ve veri çalma.",
+        "Kişisel verileri hukuka aykırı olarak ele geçirme veya yayma.",
+        "Sahte sosyal medya hesapları üzerinden dolandırıcılık yapma.",
+        "Dijital ortamda tehdit ve hakaret suçu işleme."
+      ]
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Dijital Yayıncılık ve Telif Hakları"
+    },
+    {
+      "type": "paragraph",
+      "text": "İnternet ortamında paylaşılan içeriklerin telif haklarına uygun olması gerekmektedir. Fikir ve Sanat Eserleri Kanunu, dijital platformlarda telif hakkı ihlallerine karşı yasal koruma sağlamaktadır. İzinsiz paylaşımlar, hukuki yaptırımlara yol açabilir."
+    },
+    {
+      "type": "conclusion",
+      "title": "Sonuç",
+      "text": "Türkiye'de internet hukuku, dijital dünyada bireylerin ve kurumların haklarını koruyarak güvenli bir internet ortamı oluşturmayı hedeflemektedir. İnternette hukuka uygun hareket etmek, olası hukuki sorunların önüne geçmek açısından büyük önem taşır."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "content": [
+    {
+      "type": "mainTitle",
+      "text": "İstanbul'da Trafik Kazaları ve Tazminat Hakları"
+    },
+    {
+      "type": "introduction",
+      "text": "İstanbul gibi büyük ve yoğun trafiğe sahip şehirlerde trafik kazaları sıkça meydana gelmektedir. Trafik kazaları sonrası mağdurların tazminat haklarını bilmesi, hukuki süreçlerin doğru yönetilmesi açısından büyük önem taşır."
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Trafik Kazaları ve Hukuki Sorumluluk"
+    },
+    {
+      "type": "paragraph",
+      "text": "Trafik kazaları genellikle sürücü hataları, yol ve hava koşulları veya teknik arızalar nedeniyle meydana gelir. Hukuki açıdan trafik kazaları, kusur oranına göre değerlendirilir ve tarafların sorumlulukları belirlenir."
+    },
+    {
+      "type": "highlight",
+      "text": "Trafik kazalarındaki kusur oranı, tazminat haklarını doğrudan etkileyen en önemli faktörlerden biridir."
+    },
+    {
+      "type": "quote",
+      "text": "Trafik kazası sonrası hukuki haklarınızı bilmek ve doğru bir şekilde hareket etmek, mağduriyetinizi en aza indirmek açısından önemlidir.",
+      "author": "Avukat Furkan Muhammed Bircan"
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Trafik Kazası Sonrası Tazminat Hakları"
+    },
+    {
+      "type": "paragraph",
+      "text": "Trafik kazası mağdurları, kusur durumuna ve yaşanan zarara bağlı olarak çeşitli tazminat haklarına sahiptir. Mağdurlar, maddi ve manevi zararlarını karşılamak için dava açabilirler."
+    },
+    {
+      "type": "bulletPoints",
+      "title": "Tazminat Türleri",
+      "items": [
+        "Maddi tazminat: Araç hasarı, tedavi giderleri ve kazanç kaybı.",
+        "Manevi tazminat: Kazanın yol açtığı psikolojik ve duygusal zararlar.",
+        "Destekten yoksun kalma tazminatı: Ölüm halinde, geride kalan aile bireylerinin uğradığı maddi kayıplar.",
+        "Sürekli iş göremezlik tazminatı: Kalıcı sakatlık durumlarında mağdura ödenecek tazminat."
+      ]
+    },
+    {
+      "type": "important",
+      "text": "Trafik kazası sonrası tazminat hakkınızı kullanabilmek için süresi içinde hukuki işlem başlatmak gereklidir."
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Trafik Kazası Sonrası Yapılması Gerekenler"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kaza sonrası atılacak adımlar, mağduriyetinizi önlemek açısından kritik öneme sahiptir. Doğru delillerin toplanması ve hukuki süreçlerin takip edilmesi, tazminat hakkınızı kullanabilmeniz açısından gereklidir."
+    },
+    {
+      "type": "infoBox",
+      "title": "Trafik Kazası Sonrasında Atılması Gereken Adımlar",
+      "content": [
+        "Kazanın olduğu yerde trafik polisi veya jandarmaya haber verin.",
+        "Kusur tespit tutanağı ve kazaya dair fotoğraf çekin.",
+        "Kaza sonrası sağlık raporu alarak yaralanma durumunuzu belgelendirin.",
+        "Sigorta şirketiyle iletişime geçerek hasar kaydı oluşturun.",
+        "Gerekirse hukuki süreç başlatmak için bir avukata danışın."
+      ]
+    },
+    {
+      "type": "conclusion",
+      "title": "Sonuç",
+      "text": "İstanbul'da meydana gelen trafik kazaları sonrası mağdurların tazminat haklarını bilmesi büyük önem taşır. Hukuki süreçlerin doğru yönetilmesi için uzman bir avukattan destek almak, hak kayıplarını önlemek açısından faydalıdır."
+    }
+  ]
+}

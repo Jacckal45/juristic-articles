@@ -1,0 +1,82 @@
+{
+  "content": [
+    {
+      "type": "mainTitle",
+      "text": "Türkiye'de Miras Hukuku: Haklarınız ve Yasal Süreçler"
+    },
+    {
+      "type": "introduction",
+      "text": "Miras hukuku, bir kişinin vefat etmesi durumunda malvarlığının nasıl paylaşılacağını düzenleyen hukuk dalıdır. Türkiye'de miras hukuku, Türk Medeni Kanunu çerçevesinde belirlenmiştir ve mirasçılara çeşitli haklar tanımaktadır."
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Miras Hukuku ve Temel İlkeler"
+    },
+    {
+      "type": "paragraph",
+      "text": "Miras hukuku, mirasçılar arasında adil bir paylaşım sağlamak için çeşitli düzenlemeler içerir. Mirasçılar yasal ve atanmış mirasçılar olarak ikiye ayrılır. Yasal mirasçılar, kanunen belirlenen aile bireyleridir; atanmış mirasçılar ise miras bırakanın vasiyetname ile belirlediği kişilerdir."
+    },
+    {
+      "type": "highlight",
+      "text": "Türkiye'de miras, doğrudan mirasçılara intikal eder ve reddetme hakkı kullanılmazsa yasal süre sonunda kabul edilmiş sayılır."
+    },
+    {
+      "type": "quote",
+      "text": "Miras hukuku, mirasçılar arasındaki hak kayıplarını önlemeye yönelik düzenlemeler içermektedir. Ancak hukuki süreci iyi yönetmek, hak kaybını önlemek için önemlidir.",
+      "author": "Avukat Furkan Muhammed Bircan"
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Miras Paylaşımı ve Saklı Paylı Mirasçılar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Miras paylaşımı, miras bırakanın çocukları, eşi ve diğer yakın akrabaları arasında belirlenen oranlarda yapılır. Türk Medeni Kanunu'na göre bazı mirasçılar, saklı pay hakkına sahiptir ve miras bırakanın vasiyetiyle bu hakları ellerinden alınamaz."
+    },
+    {
+      "type": "bulletPoints",
+      "title": "Saklı Pay Sahipleri ve Hakları",
+      "items": [
+        "Altsoyu (çocuklar ve torunlar) mirasın en az yarısını alma hakkına sahiptir.",
+        "Sağ kalan eşin mirastaki payı, mirasın 1/4 ila 1/2’si arasında değişmektedir.",
+        "Anne ve baba, mirasın belirli bir kısmı üzerinde saklı pay hakkına sahiptir.",
+        "Miras bırakan, saklı paya dokunmaksızın kalan mirasını istediği kişiye bırakabilir."
+      ]
+    },
+    {
+      "type": "important",
+      "text": "Miras paylaşımında, saklı pay hakkı bulunan kişilerin hakları korunmak zorundadır. Hukuki ihtilaflarda mahkemeye başvurulabilir."
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Vasiyetname ve Mirasın Reddi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bir kişi, malvarlığını belirli kişilere bırakmak istiyorsa vasiyetname hazırlayabilir. Ancak vasiyetnamenin hukuken geçerli olması için belirli şartlara uygun şekilde düzenlenmesi gerekmektedir. Mirasçılar, borç nedeniyle veya farklı sebeplerle mirası reddetme hakkına da sahiptir."
+    },
+    {
+      "type": "infoBox",
+      "title": "Vasiyetname Çeşitleri ve Geçerlilik Şartları",
+      "content": [
+        "Resmi vasiyetname, noter huzurunda düzenlenmelidir.",
+        "El yazısı vasiyetname, kişinin kendi el yazısı ile yazılmış ve imzalanmış olmalıdır.",
+        "Sözlü vasiyetname, istisnai durumlarda iki şahit huzurunda yapılabilir.",
+        "Vasiyetname, saklı paylı mirasçıların haklarını ihlal etmemelidir."
+      ]
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Miras Davaları ve Hukuki Süreç"
+    },
+    {
+      "type": "paragraph",
+      "text": "Miras hukuku ile ilgili anlaşmazlıklarda mirasçılar, mahkemeye başvurarak haklarını talep edebilirler. Mirasın paylaşımı, mirasçılığın reddi, saklı payın korunması veya vasiyetnamenin iptali gibi konular dava sürecine dahil olabilir."
+    },
+    {
+      "type": "conclusion",
+      "title": "Sonuç",
+      "text": "Türkiye’de miras hukuku, mirasçıların haklarını ve miras paylaşım süreçlerini düzenleyen önemli bir hukuk dalıdır. Hukuki sürecin doğru yönetilmesi için uzman bir avukattan destek almak, mirasla ilgili yaşanabilecek sorunları önlemek açısından önemlidir."
+    }
+  ]
+}

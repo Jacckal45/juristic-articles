@@ -1,0 +1,74 @@
+{
+  "content": [
+    {
+      "type": "mainTitle",
+      "text": "İstanbul'da Gayrimenkul Yatırımı ve Hukuki Süreçler"
+    },
+    {
+      "type": "introduction",
+      "text": "İstanbul, Türkiye'nin en büyük ve en dinamik gayrimenkul piyasasına sahip şehirlerinden biridir. Gayrimenkul yatırımları büyük kazanç sağlayabilirken, hukuki süreçlerin bilinmemesi ciddi riskler doğurabilir. Bu makalede, yatırımcıların dikkat etmesi gereken hukuki süreçleri ele alıyoruz."
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Gayrimenkul Yatırımı Yaparken Hukuki Açıdan Dikkat Edilmesi Gerekenler"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gayrimenkul yatırımı yaparken tapu kaydı, ipotek durumu, kira sözleşmeleri ve imar durumu gibi konuların detaylı incelenmesi gerekmektedir. İstanbul'da yatırım yapacak kişiler, özellikle kentsel dönüşüm projeleri ve imar değişiklikleri hakkında bilgi sahibi olmalıdır."
+    },
+    {
+      "type": "highlight",
+      "text": "Tapu kaydı incelenmeden ve hukuki danışmanlık alınmadan gayrimenkul yatırımı yapmak büyük riskler taşıyabilir."
+    },
+    {
+      "type": "quote",
+      "text": "Gayrimenkul yatırımlarında en önemli konulardan biri, tapu kaydının doğruluğunun araştırılmasıdır. Aksi takdirde yatırımcılar büyük mağduriyet yaşayabilir.",
+      "author": "Avukat Furkan Muhammed Bircan"
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Tapu İşlemleri ve Hukuki Prosedürler"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tapu işlemleri, taşınmazın resmi olarak devrini gerçekleştiren süreçlerdir. İstanbul'da bir gayrimenkul satın alırken tapu müdürlüğünde gerçekleştirilecek işlemlerin eksiksiz yapılması gerekmektedir."
+    },
+    {
+      "type": "bulletPoints",
+      "title": "Tapu İşlemlerinde Dikkat Edilmesi Gerekenler",
+      "items": [
+        "Satın alınacak taşınmazın tapu kaydı kontrol edilmelidir.",
+        "Taşınmazın üzerinde ipotek, haciz veya şerh olup olmadığı araştırılmalıdır.",
+        "Tapu devri işlemleri resmi olarak Tapu ve Kadastro Genel Müdürlüğü'nde gerçekleştirilmelidir.",
+        "Satış sözleşmesi noter huzurunda düzenlenmeli ve imza altına alınmalıdır."
+      ]
+    },
+    {
+      "type": "important",
+      "text": "Gayrimenkul alım satım işlemlerinde, tapu dolandırıcılığına karşı dikkatli olunmalı ve mümkünse uzman bir avukattan destek alınmalıdır."
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Kentsel Dönüşüm ve Hukuki Süreçler"
+    },
+    {
+      "type": "paragraph",
+      "text": "İstanbul, kentsel dönüşüm projelerinin yoğun olduğu bir şehirdir. Riskli yapıların yenilenmesi ve modern konutların inşa edilmesi sürecinde çeşitli hukuki düzenlemeler devreye girmektedir."
+    },
+    {
+      "type": "infoBox",
+      "title": "Kentsel Dönüşümde Hukuki Aşamalar",
+      "content": [
+        "Riskli yapı raporu alınarak bina kentsel dönüşüme dahil edilebilir.",
+        "Kentsel dönüşüm projelerinde maliklerin en az 2/3'ünün onayı gerekmektedir.",
+        "Devlet tarafından sunulan kentsel dönüşüm destekleri ve kredileri araştırılmalıdır.",
+        "Eski yapılar yıkılmadan önce kat malikleri arasında anlaşma sağlanmalıdır."
+      ]
+    },
+    {
+      "type": "conclusion",
+      "title": "Sonuç",
+      "text": "İstanbul'da gayrimenkul yatırımı yaparken hukuki süreçlere dikkat edilmesi, yatırımcıların haklarını koruyarak güvenli bir yatırım yapmasını sağlar. Tapu işlemleri, kentsel dönüşüm süreçleri ve yasal prosedürler konusunda uzman desteği almak, olası riskleri minimize etmek için önemlidir."
+    }
+  ]
+}

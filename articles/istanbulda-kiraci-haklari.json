@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "type": "mainTitle",
+      "text": "İstanbul'da Kiracı Hakları: Bilmeniz Gerekenler"
+    },
+    {
+      "type": "introduction",
+      "text": "İstanbul gibi büyük şehirlerde kiracı olmak, çeşitli hukuki hak ve yükümlülükleri beraberinde getirir. Kiracılar, 6098 sayılı Türk Borçlar Kanunu çerçevesinde korunmaktadır ve belirli durumlarda yasal haklarını kullanabilirler."
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Kiracıların Temel Hakları Nelerdir?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kiracılar, kanun tarafından çeşitli haklarla korunmaktadır. Ev sahibi, keyfi nedenlerle kiracıyı tahliye edemez ve kira sözleşmesi boyunca kiracının belirli güvenceleri vardır. İstanbul’da özellikle artan kira fiyatları nedeniyle bu hakların bilinmesi önemlidir."
+    },
+    {
+      "type": "highlight",
+      "text": "Kiracı, yasal haklarını bilerek hareket etmeli ve ev sahibi ile yaşanabilecek hukuki ihtilaflardan kaçınmalıdır."
+    },
+    {
+      "type": "quote",
+      "text": "Ev sahipleri, kanuna aykırı bir şekilde kiracıyı tahliye edemez. Kiracılar da sözleşmelerini dikkatle incelemelidir.",
+      "author": "Avukat Furkan Muhammed Bircan"
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Ev Sahibi Kiracıyı Hangi Durumlarda Tahliye Ettirebilir?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ev sahibi, belirli durumlarda mahkeme kararıyla kiracıyı tahliye edebilir. Ancak bunun için haklı bir gerekçeye sahip olması gerekmektedir. Aksi takdirde, kiracıyı çıkarmak mümkün değildir."
+    },
+    {
+      "type": "bulletPoints",
+      "title": "Ev Sahibinin Tahliye Gerekçeleri",
+      "items": [
+        "Kira sözleşmesinde belirtilen sürenin dolmuş olması ve tahliye taahhüdü bulunması.",
+        "Kiracının kira bedelini ödememesi.",
+        "Ev sahibinin veya birinci derece yakınlarının evi kullanma ihtiyacının olması.",
+        "Kira sözleşmesine aykırı kullanım veya taşınmazın zarar görmesi."
+      ]
+    },
+    {
+      "type": "important",
+      "text": "Ev sahipleri, keyfi tahliye girişimlerinde bulunamaz. Kiracının yasal hakları vardır ve mahkeme süreci gereklidir."
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Kira Artış Oranları ve Sınırlamalar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye’de kira artış oranı, Türkiye İstatistik Kurumu (TÜİK) tarafından belirlenen Tüketici Fiyat Endeksi (TÜFE) oranına göre düzenlenmektedir. Ancak, 2023 yılı itibarıyla geçici bir düzenleme ile konut kiralarındaki artış oranı %25 ile sınırlandırılmıştır."
+    },
+    {
+      "type": "infoBox",
+      "title": "Kira Artışı Konusunda Bilmeniz Gerekenler",
+      "content": [
+        "Konut kiralarında, 1 Temmuz 2023 tarihine kadar kira artışları %25 ile sınırlandırılmıştır.",
+        "İş yeri kiralarında bu sınırlama bulunmamaktadır, TÜFE oranına göre belirlenir.",
+        "Ev sahibi, kira artışını ancak yasal sınırlar içinde yapabilir."
+      ]
+    },
+    {
+      "type": "conclusion",
+      "title": "Sonuç",
+      "text": "İstanbul'da kiracı haklarını bilmek, kira sözleşmesi sürecinde önemli bir avantaj sağlar. Haksız tahliyelere karşı hukuki yollar açıktır ve kiracıların yasal güvenceleri bulunmaktadır. Herhangi bir hukuki ihtilafta uzman bir avukattan destek almak faydalı olacaktır."
+    }
+  ]
+}

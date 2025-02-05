@@ -1,0 +1,75 @@
+{
+  "content": [
+    {
+      "type": "mainTitle",
+      "text": "İş Hukuku: Çalışan ve İşveren Hakları Nelerdir?"
+    },
+    {
+      "type": "introduction",
+      "text": "İş hukuku, çalışanların ve işverenlerin haklarını ve sorumluluklarını düzenleyen önemli bir hukuk dalıdır. Çalışma hayatında adaletin sağlanması ve tarafların korunması için iş hukuku kuralları büyük önem taşır."
+    },
+    {
+      "type": "sectionTitle",
+      "text": "İş Hukukunun Temel İlkeleri"
+    },
+    {
+      "type": "paragraph",
+      "text": "İş hukuku, işçi ile işveren arasındaki ilişkileri düzenleyen bir dizi kuraldan oluşur. İş kanunları, çalışanların haklarını korurken aynı zamanda işverenlerin de yükümlülüklerini belirler. Bu kurallar, işçilerin adil çalışma koşullarına sahip olmasını sağlar."
+    },
+    {
+      "type": "highlight",
+      "text": "İş hukuku, hem işçilerin haklarını hem de işverenlerin yükümlülüklerini dengeleyen bir hukuk dalıdır."
+    },
+    {
+      "type": "quote",
+      "text": "İşveren ve çalışan arasındaki sözleşmeler, tarafların haklarını net bir şekilde belirlemelidir.",
+      "author": "Avukat Furkan Muhammed Bircan"
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Çalışan Hakları ve İşveren Yükümlülükleri"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye’de İş Kanunu’na göre çalışanların bazı temel hakları vardır. İşverenler de bu haklara riayet etmekle yükümlüdür. İşçilerin en önemli hakları arasında adil ücret, güvenli çalışma ortamı, haftalık izin ve kıdem tazminatı bulunur."
+    },
+    {
+      "type": "bulletPoints",
+      "title": "Çalışan Hakları",
+      "items": [
+        "Adil ve zamanında ücret alma hakkı",
+        "Güvenli ve sağlıklı bir çalışma ortamı",
+        "Yıllık izin ve hafta tatili hakkı",
+        "Fazla mesai ücreti",
+        "İş sözleşmesinin haksız feshine karşı korunma"
+      ]
+    },
+    {
+      "type": "important",
+      "text": "İş hukuku, çalışanların haklarını korurken aynı zamanda işverenlerin de yükümlülüklerini belirleyerek adil bir çalışma düzeni sağlar."
+    },
+    {
+      "type": "sectionTitle",
+      "text": "İşten Çıkış ve Kıdem Tazminatı"
+    },
+    {
+      "type": "paragraph",
+      "text": "İşten ayrılma veya işten çıkarılma durumlarında çalışanların bazı yasal hakları vardır. İşçinin haklı bir sebep olmaksızın işten çıkarılması durumunda, kıdem ve ihbar tazminatı alma hakkı doğabilir. İşveren ise işçiyi çıkarmadan önce belirli prosedürleri uygulamak zorundadır."
+    },
+    {
+      "type": "infoBox",
+      "title": "İşten Çıkarma Durumunda Haklar",
+      "content": [
+        "Çalışan, haksız fesih durumunda işe iade davası açabilir.",
+        "Kıdem tazminatı alabilmek için en az bir yıl çalışmış olmak gerekir.",
+        "İhbar süresi, çalışanın kıdemine göre belirlenir.",
+        "İşveren, işten çıkarma sürecinde belirli yasal prosedürleri uygulamak zorundadır."
+      ]
+    },
+    {
+      "type": "conclusion",
+      "title": "Sonuç",
+      "text": "İş hukuku, çalışan ve işveren arasındaki dengeyi sağlamak için geliştirilmiş önemli bir hukuk dalıdır. Çalışan haklarını ve işveren yükümlülüklerini bilmek, iş hayatında yaşanabilecek hukuki sorunların önüne geçmek için büyük önem taşır."
+    }
+  ]
+}
