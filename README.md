@@ -1,26 +1,69 @@
-# Juristic Articles
+# Juristic Blog Content
 
-Bu repository, hukuk makalelerini ve içeriklerini barındırır.
+Bu repository, hukuk blog içeriklerini yönetmek için kullanılmaktadır. Blog içerikleri markdown formatında tutulmakta ve web sitesinde dinamik olarak görüntülenmektedir.
 
-## Klasör Yapısı
+## Repository Yapısı
 
-- `/articles`: Ana makale klasörü
-  - `/aile-hukuku`: Aile hukuku ile ilgili makaleler
-  - `/is-hukuku`: İş hukuku ile ilgili makaleler
-  - `/images`: Makalelerde kullanılan görseller
+```
+juristic-blog/
+├── articles/           # Markdown formatında blog yazıları
+├── images/            # Blog görselleri
+├── metadata.json      # Blog yazılarının meta verileri
+└── README.md         # Bu dosya
+```
 
-## Makale Formatı
+## Yeni Blog Yazısı Ekleme
 
-Her makale aşağıdaki formatta olmalıdır:
+1. `articles/` klasörüne yeni bir markdown dosyası ekleyin (örn: `yeni-makale.md`)
+2. `metadata.json` dosyasına yeni makalenin meta verilerini ekleyin:
 
+```json
+{
+  "id": "9",
+  "title": "Makale Başlığı",
+  "slug": "makale-slug",
+  "image": "images/makale-resmi.jpg",
+  "thumb": "Avukat, Hukuk",
+  "description": "Makale açıklaması",
+  "author": "Yazar Adı",
+  "authorTitle": "Unvan",
+  "create_at": "Tarih",
+  "comment": "0",
+  "blClass": "format-standard-image"
+}
+```
 
+3. Makale görselini `images/` klasörüne ekleyin
 
+## Markdown Formatı
 
+Blog yazılarınızı markdown formatında yazarken şu yapıyı kullanın:
 
-## Yeni Makale Ekleme
+```markdown
+# Makale Başlığı
 
-1. İlgili kategori klasörüne gidin
-2. "Add file" > "Create new file" tıklayın
-3. Dosya adını `makale-basligi.md` formatında girin
-4. Yukarıdaki formatı kullanarak içeriği yazın
-5. "Commit new file" tıklayın
+Giriş paragrafı...
+
+## Alt Başlık 1
+
+İçerik...
+
+## Alt Başlık 2
+
+İçerik...
+
+## Sonuç
+
+Sonuç paragrafı...
+```
+
+## Görseller
+
+- Görseller `images/` klasöründe saklanır
+- Görsel isimleri küçük harflerle, türkçe karakter içermeyecek şekilde olmalıdır
+- Desteklenen formatlar: .jpg, .png, .webp
+- Önerilen görsel boyutları: 800x600px
+
+## Deployment
+
+Bu repository'deki içerikler web sitesinde otomatik olarak görüntülenir. Yeni bir içerik eklediğinizde veya mevcut içeriği güncellediğinizde, değişiklikler web sitesine otomatik olarak yansıyacaktır.

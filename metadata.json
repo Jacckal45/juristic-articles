@@ -1,0 +1,108 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Boşanma ve Aile Hukuku: Haklarınızı ve Sorumluluklarınızı Bilin",
+      "slug": "bosanma-ve-aile-hukuku",
+      "image": "images/kaza.jpg",
+      "thumb": "Avukat",
+      "description": "Orta Yaşlı insanlar için boşanma ve aile hukuku, yaşamlarında önemli bir dönemeç olabilir. Boşanma süreci, hem duygusal hem de hukuksal olarak zorlayıcı olabilir.",
+      "author": "Furkan Bircan",
+      "authorTitle": "Avukat",
+      "create_at": "29 MAY,24",
+      "comment": "2",
+      "blClass": "format-standard-image"
+    },
+    {
+      "id": "2",
+      "title": "Sosyal Medyada Hakaret: Yasal Süreçler ve Hukuki Sorumluluklar",
+      "slug": "sosyal-medyadahakaret",
+      "image": "images/kaza.jpg",
+      "thumb": "Avukat, Hukuk",
+      "description": "Sosyal medya, iletişim ve bilgi paylaşımı için yaygın bir platform olmasının yanı sıra, bazen hakaret ve saldırganlık gibi olumsuz davranışların da yayılmasına neden olabilir.",
+      "author": "Furkan Bircan",
+      "authorTitle": "Avukat",
+      "create_at": "28 MAY,24",
+      "comment": "80",
+      "blClass": "format-standard-image"
+    },
+    {
+      "id": "3",
+      "title": "İş Hukuku: Çalışan ve İşveren Hakları",
+      "slug": "is-hukuku",
+      "image": "images/kaza.jpg",
+      "thumb": "Avukat, Hukuk",
+      "description": "İstanbul, Türkiye'nin iş ve ticaret merkezlerinden biri olarak hem yerli hem de uluslararası şirketler için önemli bir iş piyasası sunmaktadır.",
+      "author": "Furkan Bircan",
+      "authorTitle": "Avukat",
+      "create_at": "28 MAY,24",
+      "comment": "80",
+      "blClass": "format-standard-image"
+    },
+    {
+      "id": "4",
+      "title": "İstanbul'da Kiracı Hakları: Bilmeniz Gerekenler",
+      "slug": "istanbulda-kiraci-haklari",
+      "image": "images/kaza.jpg",
+      "thumb": "Avukat, Hukuk",
+      "description": "İstanbul, Türkiye'nin en büyük ve en hareketli şehirlerinden biri olmasıyla birlikte, yoğun nüfusuyla birlikte kiracılar için çeşitli hak ve sorumlulukları da beraberinde getiriyor.",
+      "author": "Furkan Bircan",
+      "authorTitle": "Avukat",
+      "create_at": "28 MAY,24",
+      "comment": "80",
+      "blClass": "format-standard-image"
+    },
+    {
+      "id": "5",
+      "title": "İstanbul'da Trafik Kazaları ve Tazminat Hakları: Bilmeniz Gerekenler",
+      "slug": "istanbuldatrafik-kazalari",
+      "image": "images/kaza.jpg",
+      "thumb": "Avukat, Hukuk",
+      "description": "İstanbul, Türkiye'nin en yoğun trafiğine sahip şehirlerinden biri olarak bilinir. Bu yoğun trafiğin bir sonucu olarak maalesef trafik kazaları da sıkça yaşanmaktadır.",
+      "author": "Furkan Bircan",
+      "authorTitle": "Avukat",
+      "create_at": "28 MAY,24",
+      "comment": "80",
+      "blClass": "format-standard-image"
+    },
+    {
+      "id": "6",
+      "title": "İstanbul'da Gayrimenkul Yatırımı ve Hukuki Süreçler: Bilinmesi Gerekenler",
+      "slug": "istanbulda-gayrimenkul-yatirimi",
+      "image": "images/kaza.jpg",
+      "thumb": "Avukat, Hukuk",
+      "description": "İstanbul, Türkiye'nin ekonomik ve kültürel başkenti olarak hem yerel hem de uluslararası yatırımcılar için cazip bir gayrimenkul pazarı sunmaktadır.",
+      "author": "Furkan Bircan",
+      "authorTitle": "Avukat",
+      "create_at": "28 MAY,24",
+      "comment": "80",
+      "blClass": "format-standard-image"
+    },
+    {
+      "id": "7",
+      "title": "Türkiye'de İnternet Hukuku: Dijital Dönüşümün Hukuki Boyutları",
+      "slug": "internet-hukuku",
+      "image": "images/kaza.jpg",
+      "thumb": "Avukat, Hukuk",
+      "description": "Türkiye, son yıllarda hızla dijitalleşen bir toplum haline gelmiştir. İnternetin yaygınlaşmasıyla birlikte, dijital platformlarda yaşanan sorunlar ve bu platformlarda geçerli olan hukuki düzenlemeler önem kazanmıştır.",
+      "author": "Furkan Bircan",
+      "authorTitle": "Avukat",
+      "create_at": "28 MAY,24",
+      "comment": "80",
+      "blClass": "format-standard-image"
+    },
+    {
+      "id": "8",
+      "title": "Türkiye'de Miras Hukuku: Geleceğinizi Güvence Altına Alın",
+      "slug": "miras-hukuku",
+      "image": "images/kaza.jpg",
+      "thumb": "Avukat, Hukuk",
+      "description": "Orta yaşlı insanlar için miras hukuku, önemli bir konudur çünkü bu dönemde genellikle aile büyüklerinden miras kalma ihtimali artar ve gelecek nesillere aktarılacak mirasın yönetimi önem kazanır.",
+      "author": "Furkan Bircan",
+      "authorTitle": "Avukat",
+      "create_at": "28 MAY,24",
+      "comment": "80",
+      "blClass": "format-standard-image"
+    }
+  ]
+}
