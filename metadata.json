@@ -111,6 +111,20 @@
       "create_at": "28 MAY,24",
       "comment": "80",
       "blClass": "format-standard-image"
+    },
+    {
+      "id": "9",
+      "title": "Alamanya",
+      "slug": "almanya-hukuku",
+      "image": "https://raw.githubusercontent.com/Jacckal45/juristic-articles/main/images/almanya.jpg",
+      "blogSingleImg": "https://raw.githubusercontent.com/Jacckal45/juristic-articles/main/images/almanya.jpg",
+      "thumb": "Avukat, Hukuk",
+      "description": "Alamanyada yasam.",
+      "author": "Furkan Bircan",
+      "authorTitle": "Avukat",
+      "create_at": "01 MAY,25",
+      "comment": "80",
+      "blClass": "format-standard-image"
     }
   ]
 }
