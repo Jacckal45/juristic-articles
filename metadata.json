@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "92",
+      "title": "MADDİ HASARLI TRAFİK KAZALARI",
+      "slug": "maddi-hasar",
+      "image": "https://raw.githubusercontent.com/Jacckal45/juristic-articles/main/images/miras.webp",
+      "blogSingleImg": "https://raw.githubusercontent.com/Jacckal45/juristic-articles/main/images/miras.webp",
+      "thumb": "Sigorta Avukatı",
+      "description": "Trafik kazası, karayollarında hareket eden motorlu veya motorsuz taşıtların karıştığı, can kaybı, yaralanma veya maddi hasarla sonuçlanan olaydır.",
+      "author": "Furkan Muhammed Bircan",
+      "authorTitle": "Avukat",
+      "create_at": "15 MAY,25",
+      "comment": "80",
+      "blClass": "format-standard-image"
+    },
+    {
       "id": "100",
       "title": "Boşanma ve Aile Hukuku: Haklarınızı ve Sorumluluklarınızı Bilin",
       "slug": "bosanma-ve-aile-hukuku",
@@ -109,20 +123,6 @@
       "author": "Furkan Muhammed Bircan",
       "authorTitle": "Avukat",
       "create_at": "28 MAY,24",
-      "comment": "80",
-      "blClass": "format-standard-image"
-    },
-    {
-      "id": "92",
-      "title": "MADDİ HASARLI TRAFİK KAZALARI",
-      "slug": "maddi-hasar",
-      "image": "https://raw.githubusercontent.com/Jacckal45/juristic-articles/main/images/miras.webp",
-      "blogSingleImg": "https://raw.githubusercontent.com/Jacckal45/juristic-articles/main/images/miras.webp",
-      "thumb": "Sigorta Avukatı",
-      "description": "Trafik kazası, karayollarında hareket eden motorlu veya motorsuz taşıtların karıştığı, can kaybı, yaralanma veya maddi hasarla sonuçlanan olaydır.",
-      "author": "Furkan Muhammed Bircan",
-      "authorTitle": "Avukat",
-      "create_at": "15 MAY,25",
       "comment": "80",
       "blClass": "format-standard-image"
     }
