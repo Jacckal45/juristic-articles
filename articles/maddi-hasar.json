@@ -1,0 +1,103 @@
+{
+  "content": [
+    {
+      "type": "mainTitle",
+      "text": "Maddi Hasarlı Trafik Kazaları: Haklarınız ve Hukuki Süreç"
+    },
+    {
+      "type": "introduction",
+      "text": "Trafik kazaları, sadece can kayıplarıyla değil, aynı zamanda maddi zararlarla da önemli sonuçlar doğurabilir. Maddi hasarlı trafik kazaları, araç sahipleri için sigorta işlemleri ve tazminat süreçleri açısından dikkatle yönetilmesi gereken olaylardır."
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Trafik Kazası Nedir?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Trafik kazası, karayollarında hareket eden motorlu veya motorsuz taşıtların karıştığı, can kaybı, yaralanma veya maddi hasarla sonuçlanan olaydır. Genellikle sürücü hataları, altyapı eksiklikleri, hava koşulları veya taşıtların teknik sorunlarından kaynaklanır."
+    },
+    {
+      "type": "bulletPoints",
+      "title": "Trafik Kazası Türleri",
+      "items": [
+        "Maddi Hasarlı Trafik Kazaları: Sadece araçlarda veya mülklerde zarar meydana gelir.",
+        "Yaralanmalı Trafik Kazaları: İnsanların yaralandığı kazalardır.",
+        "Ölümlü Trafik Kazaları: Can kaybının yaşandığı kazalardır.",
+        "Zincirleme Trafik Kazaları: Birden fazla aracın karıştığı kazalardır."
+      ]
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Maddi Hasarlı Trafik Kazası Nedir?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maddi hasarlı trafik kazası, sadece araçlarda veya diğer maddi varlıklarda hasarın meydana geldiği; can kaybı veya yaralanmanın yaşanmadığı kazalardır. Bu tür kazalarda sigorta şirketleri devreye girerek tazminat sürecini yönetir."
+    },
+    {
+      "type": "bulletPoints",
+      "title": "Özellikleri",
+      "items": [
+        "Can kaybı veya yaralanma bulunmaz.",
+        "Maddi zararlar ön plandadır (çizik, göçük, cam kırıkları vb.).",
+        "Taraflar arasında tutanakla anlaşma yapılabilir."
+      ]
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Kaza Anında Yapılması Gerekenler"
+    },
+    {
+      "type": "bulletPoints",
+      "title": "Adımlar",
+      "items": [
+        "Flaşörleri yakarak olay yerini güvenli hale getirin.",
+        "Taraflar anlaşabiliyorsa kaza tespit tutanağını doldurun.",
+        "Fotoğraflarla kazayı belgeleyin.",
+        "Anlaşmazlık durumunda polis çağrılmalıdır.",
+        "Alkollü ya da ehliyetsiz sürücü varsa polis müdahalesi gerekir."
+      ]
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Hukuki Süreç ve Sigorta İşlemleri"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kaza sonrası sigorta şirketine 5 iş günü içinde bildirim yapılmalıdır. Ekspertiz süreci başlatılarak hasar tespiti yapılır ve poliçe kapsamında ödeme gerçekleştirilir."
+    },
+    {
+      "type": "important",
+      "text": "Eksik veya hatalı tutanak, sigorta tazminatının reddine neden olabilir. Bu nedenle evrakların doğru ve eksiksiz olması çok önemlidir."
+    },
+    {
+      "type": "sectionTitle",
+      "text": "Tazminat Hakları"
+    },
+    {
+      "type": "bulletPoints",
+      "title": "Başlıca Tazminat Türleri",
+      "items": [
+        "Araç Hasarının Karşılanması (Maddi zarar tazminatı)",
+        "Değer Kaybı Tazminatı (aracın ikinci el değerindeki düşüş)",
+        "Kullanım Kaybı Tazminatı (tamir süresince kullanılamama)",
+        "Çekici ve kurtarma masrafları",
+        "Üçüncü kişilere verilen maddi zararların karşılanması"
+      ]
+    },
+    {
+      "type": "infoBox",
+      "title": "Sigorta Kapsamında Karşılanan Masraflar",
+      "content": [
+        "Kasko sigortası: Kendi aracınızın hasarını karşılar.",
+        "Zorunlu trafik sigortası: Karşı tarafa verilen zararları karşılar.",
+        "Ek teminatlarla aksesuar ve yedek parça zararları da kapsanabilir."
+      ]
+    },
+    {
+      "type": "conclusion",
+      "title": "Sonuç",
+      "text": "Maddi hasarlı trafik kazalarında hak kaybı yaşamamak için sürecin dikkatle yürütülmesi gerekir. Kaza tespit tutanağı, fotoğraflar ve zamanında bildirim ile tazminat süreci başarıyla sonuçlandırılabilir. Hukuki destek almak, süreci hızlandırır ve hataların önüne geçer."
+    }
+  ]
+}
