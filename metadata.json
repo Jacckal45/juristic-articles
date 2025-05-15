@@ -1,7 +1,7 @@
 {
   "articles": [
     {
-      "id": "1",
+      "id": "100",
       "title": "Boşanma ve Aile Hukuku: Haklarınızı ve Sorumluluklarınızı Bilin",
       "slug": "bosanma-ve-aile-hukuku",
       "image": "https://raw.githubusercontent.com/Jacckal45/juristic-articles/main/images/aileayrilik.webp",
@@ -15,7 +15,7 @@
       "blClass": "format-standard-image"
     },
     {
-      "id": "2",
+      "id": "99",
       "title": "Sosyal Medyada Hakaret: Yasal Süreçler ve Hukuki Sorumluluklar",
       "slug": "sosyal-medyadahakaret",
       "image": "https://raw.githubusercontent.com/Jacckal45/juristic-articles/main/images/img-1.jpg",
@@ -29,7 +29,7 @@
       "blClass": "format-standard-image"
     },
     {
-      "id": "3",
+      "id": "98",
       "title": "İş Hukuku: Çalışan ve İşveren Hakları",
       "slug": "is-hukuku",
       "image": "https://raw.githubusercontent.com/Jacckal45/juristic-articles/main/images/iscihakki.jpg",
@@ -43,7 +43,7 @@
       "blClass": "format-standard-image"
     },
     {
-      "id": "4",
+      "id": "97",
       "title": "İstanbul'da Kiracı Hakları: Bilmeniz Gerekenler",
       "slug": "istanbulda-kiraci-haklari",
       "image": "https://raw.githubusercontent.com/Jacckal45/juristic-articles/main/images/istanbulemlak.jpg",
@@ -57,7 +57,7 @@
       "blClass": "format-standard-image"
     },
     {
-      "id": "5",
+      "id": "96",
       "title": "İstanbul'da Trafik Kazaları ve Tazminat Hakları: Bilmeniz Gerekenler",
       "slug": "istanbuldatrafik-kazalari",
       "image": "https://raw.githubusercontent.com/Jacckal45/juristic-articles/main/images/kaza.jpg",
@@ -71,7 +71,7 @@
       "blClass": "format-standard-image"
     },
     {
-      "id": "6",
+      "id": "95",
       "title": "İstanbul'da Gayrimenkul Yatırımı ve Hukuki Süreçler: Bilinmesi Gerekenler",
       "slug": "istanbulda-gayrimenkul-yatirimi",
       "image": "https://raw.githubusercontent.com/Jacckal45/juristic-articles/main/images/gayrimenkul.jpg",
@@ -85,7 +85,7 @@
       "blClass": "format-standard-image"
     },
     {
-      "id": "7",
+      "id": "94",
       "title": "Türkiye'de İnternet Hukuku: Dijital Dönüşümün Hukuki Boyutları",
       "slug": "internet-hukuku",
       "image": "https://raw.githubusercontent.com/Jacckal45/juristic-articles/main/images/siber.jpg",
@@ -99,7 +99,7 @@
       "blClass": "format-standard-image"
     },
     {
-      "id": "8",
+      "id": "93",
       "title": "Türkiye'de Miras Hukuku: Geleceğinizi Güvence Altına Alın",
       "slug": "miras-hukuku",
       "image": "https://raw.githubusercontent.com/Jacckal45/juristic-articles/main/images/miras.webp",
@@ -113,7 +113,7 @@
       "blClass": "format-standard-image"
     },
     {
-      "id": "9",
+      "id": "92",
       "title": "MADDİ HASARLI TRAFİK KAZALARI",
       "slug": "maddi-hasar",
       "image": "https://raw.githubusercontent.com/Jacckal45/juristic-articles/main/images/miras.webp",
